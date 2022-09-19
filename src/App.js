@@ -3,7 +3,7 @@ import './App.css';
 import { click } from '@testing-library/user-event/dist/click';
 
 function App() {
-  let count = 0;
+  let count = 1;
 
   return (
     <div className="App">
